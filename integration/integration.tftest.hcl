@@ -1,6 +1,6 @@
 run "setup" {
   module {
-    source = "./tests/fixture"
+    source = "./integration/fixture"
   }
 }
 
